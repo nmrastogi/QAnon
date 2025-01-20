@@ -1,0 +1,20 @@
+Total number of tokens from content: 20801582
+Total combined category counts for content column:
+fusion                    23647
+violence                  45157
+identification1               0
+identification2               0
+slurs                     12196
+demonisation              47021
+dehumanisation            21499
+existential_threat        15759
+conspiracy                54718
+inevitable_war1           32965
+inevitable_war2           75216
+violence_justification     7900
+martyr                     2196
+violent_role_model1        2701
+violent_role_model2       16687
+hopelessness1             35465
+hopelessness2             23467
+dtype: int64
